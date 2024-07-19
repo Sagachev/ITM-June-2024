@@ -1,0 +1,5 @@
+ERROR:root:Ошибка: could not convert string to float: 't'. Введены некорректные данные.
+ERROR:root:Ошибка: could not convert string to float: 't'. Введены некорректные данные.
+ERROR:root:Ошибка: Введены некорректные данные.
+ERROR:root:Ошибка: Введены некорректные данные.
+ERROR:root:Ошибка: Введены некорректные данные.
